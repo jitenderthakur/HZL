@@ -1,0 +1,436 @@
+2022-06-28 20:57:23,646 {'message': 'connected to DB successfuly'}
+2022-06-28 20:58:35,698 {'message': 'connected to DB successfuly'}
+2022-06-28 21:00:21,472 {'message': 'connected to DB successfuly'}
+2022-06-28 21:01:19,487 {'message': 'connected to DB successfuly'}
+2022-06-28 21:01:52,874 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-28 21:03:09,068 {'message': 'connected to DB successfuly'}
+2022-06-28 21:03:11,503 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-28 21:03:12,897 Fusing layers... 
+2022-06-28 21:03:15,915 Model Summary: 213 layers, 7020913 parameters, 0 gradients, 15.8 GFLOPs
+2022-06-28 21:03:15,921 Adding AutoShape... 
+2022-06-28 21:03:17,161 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-28 21:03:18,404 Fusing layers... 
+2022-06-28 21:03:18,787 Model Summary: 213 layers, 7029004 parameters, 0 gradients, 15.9 GFLOPs
+2022-06-28 21:03:18,790 Adding AutoShape... 
+2022-06-28 21:03:25,172 {'message': 'Solution has started running'}
+2022-06-28 21:03:25,173 {'message': 'Casting model Running!!'}
+2022-06-28 21:03:25,175 {'message': 'Stacking model Running!!'}
+2022-06-28 21:03:25,565  * Restarting with windowsapi reloader
+2022-06-28 21:03:40,438 {'message': 'connected to DB successfuly'}
+2022-06-28 21:03:43,124 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-28 21:03:43,244 Fusing layers... 
+2022-06-28 21:03:43,701 Model Summary: 213 layers, 7020913 parameters, 0 gradients, 15.8 GFLOPs
+2022-06-28 21:03:43,705 Adding AutoShape... 
+2022-06-28 21:03:43,971 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-28 21:03:44,492 Fusing layers... 
+2022-06-28 21:03:44,863 Model Summary: 213 layers, 7029004 parameters, 0 gradients, 15.9 GFLOPs
+2022-06-28 21:03:44,870 Adding AutoShape... 
+2022-06-28 21:03:46,227 {'message': 'Solution has started running'}
+2022-06-28 21:03:46,228 {'message': 'Casting model Running!!'}
+2022-06-28 21:03:46,231 {'message': 'Stacking model Running!!'}
+2022-06-28 21:03:46,340  * Debugger is active!
+2022-06-28 21:03:46,512  * Debugger PIN: 161-684-179
+2022-06-28 21:03:46,805  * Running on http://0.0.0.0:7000/ (Press CTRL+C to quit)
+2022-06-28 21:12:56,237  * Detected change in 'E:\\hzl\\server_new.py', reloading
+2022-06-28 21:14:14,281 {'message': 'connected to DB successfuly'}
+2022-06-28 21:14:33,809 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-28 21:14:34,744 Fusing layers... 
+2022-06-28 21:14:35,240 Model Summary: 213 layers, 7020913 parameters, 0 gradients, 15.8 GFLOPs
+2022-06-28 21:14:35,244 Adding AutoShape... 
+2022-06-28 21:14:35,416 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-28 21:14:35,879 Fusing layers... 
+2022-06-28 21:14:36,220 Model Summary: 213 layers, 7029004 parameters, 0 gradients, 15.9 GFLOPs
+2022-06-28 21:14:36,223 Adding AutoShape... 
+2022-06-28 21:14:37,319 {'message': 'Solution has started running'}
+2022-06-28 21:14:37,319 {'message': 'Casting model Running!!'}
+2022-06-28 21:14:37,323 {'message': 'Stacking model Running!!'}
+2022-06-28 21:14:37,643  * Restarting with windowsapi reloader
+2022-06-28 21:14:50,153 {'message': 'connected to DB successfuly'}
+2022-06-28 21:14:52,473 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-28 21:14:52,566 Fusing layers... 
+2022-06-28 21:14:52,969 Model Summary: 213 layers, 7020913 parameters, 0 gradients, 15.8 GFLOPs
+2022-06-28 21:14:52,973 Adding AutoShape... 
+2022-06-28 21:14:53,092 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-28 21:14:53,174 Fusing layers... 
+2022-06-28 21:14:53,611 Model Summary: 213 layers, 7029004 parameters, 0 gradients, 15.9 GFLOPs
+2022-06-28 21:14:53,614 Adding AutoShape... 
+2022-06-28 21:14:54,112 {'message': 'Solution has started running'}
+2022-06-28 21:14:54,112 {'message': 'Casting model Running!!'}
+2022-06-28 21:14:54,114 {'message': 'Stacking model Running!!'}
+2022-06-28 21:14:54,128  * Debugger is active!
+2022-06-28 21:14:54,161  * Debugger PIN: 161-684-179
+2022-06-28 21:14:54,306  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2022-06-28 21:23:46,761  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\requests\\api.py', reloading
+2022-06-28 21:23:56,172  * Restarting with windowsapi reloader
+2022-06-28 21:25:04,860 {'message': 'connected to DB successfuly'}
+2022-06-28 21:25:29,668 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-28 21:25:30,414 Fusing layers... 
+2022-06-28 21:25:30,962 Model Summary: 213 layers, 7020913 parameters, 0 gradients, 15.8 GFLOPs
+2022-06-28 21:25:30,968 Adding AutoShape... 
+2022-06-28 21:25:31,392 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-28 21:25:31,907 Fusing layers... 
+2022-06-28 21:25:32,313 Model Summary: 213 layers, 7029004 parameters, 0 gradients, 15.9 GFLOPs
+2022-06-28 21:25:32,317 Adding AutoShape... 
+2022-06-28 21:25:34,678 {'message': 'Solution has started running'}
+2022-06-28 21:25:34,678 {'message': 'Casting model Running!!'}
+2022-06-28 21:25:34,682 {'message': 'Stacking model Running!!'}
+2022-06-28 21:25:34,794  * Debugger is active!
+2022-06-28 21:25:34,854  * Debugger PIN: 161-684-179
+2022-06-28 21:25:35,201  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2022-06-28 21:28:36,037  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\__pycache__\\ipykernel_launcher.cpython-38.pyc', reloading
+2022-06-28 21:28:55,575  * Restarting with windowsapi reloader
+2022-06-28 21:31:08,753 {'message': 'connected to DB successfuly'}
+2022-06-28 21:31:37,726 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-28 21:31:38,515 Fusing layers... 
+2022-06-28 21:31:39,251 Model Summary: 213 layers, 7020913 parameters, 0 gradients, 15.8 GFLOPs
+2022-06-28 21:31:39,256 Adding AutoShape... 
+2022-06-28 21:31:40,182 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-28 21:31:43,521 Fusing layers... 
+2022-06-28 21:31:43,986 Model Summary: 213 layers, 7029004 parameters, 0 gradients, 15.9 GFLOPs
+2022-06-28 21:31:43,993 Adding AutoShape... 
+2022-06-28 21:31:49,970 {'message': 'Solution has started running'}
+2022-06-28 21:31:49,970 {'message': 'Casting model Running!!'}
+2022-06-28 21:31:49,973 {'message': 'Stacking model Running!!'}
+2022-06-28 21:31:50,529  * Debugger is active!
+2022-06-28 21:31:50,886  * Debugger PIN: 161-684-179
+2022-06-28 21:31:52,432  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2022-06-28 21:32:04,439  * Detected change in 'K:\\anaconda\\envs\\tml_final\\Lib\\encodings\\__pycache__\\__init__.cpython-36.pyc', reloading
+2022-06-28 21:32:04,484  * Detected change in 'K:\\anaconda\\envs\\tml_final\\Lib\\__pycache__\\codecs.cpython-36.pyc', reloading
+2022-06-28 21:32:04,528  * Detected change in 'K:\\anaconda\\envs\\tml_final\\Lib\\encodings\\__pycache__\\aliases.cpython-36.pyc', reloading
+2022-06-28 21:32:04,568  * Detected change in 'K:\\anaconda\\envs\\tml_final\\Lib\\encodings\\__pycache__\\utf_8.cpython-36.pyc', reloading
+2022-06-28 21:32:04,597  * Detected change in 'K:\\anaconda\\envs\\tml_final\\Lib\\encodings\\__pycache__\\latin_1.cpython-36.pyc', reloading
+2022-06-28 21:32:04,682  * Detected change in 'K:\\anaconda\\envs\\tml_final\\Lib\\__pycache__\\io.cpython-36.pyc', reloading
+2022-06-28 21:32:04,709  * Detected change in 'K:\\anaconda\\envs\\tml_final\\Lib\\__pycache__\\abc.cpython-36.pyc', reloading
+2022-06-28 21:32:04,717  * Detected change in 'K:\\anaconda\\envs\\tml_final\\Lib\\__pycache__\\_weakrefset.cpython-36.pyc', reloading
+2022-06-28 21:32:04,782  * Detected change in 'K:\\anaconda\\envs\\tml_final\\Lib\\__pycache__\\_bootlocale.cpython-36.pyc', reloading
+2022-06-28 21:32:04,816  * Detected change in 'K:\\anaconda\\envs\\tml_final\\Lib\\encodings\\__pycache__\\cp1252.cpython-36.pyc', reloading
+2022-06-28 21:32:12,596  * Restarting with windowsapi reloader
+2022-06-28 21:54:18,523 {'message': 'connected to DB successfuly'}
+2022-06-28 21:55:31,336 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-28 21:55:33,348 Fusing layers... 
+2022-06-28 21:55:40,879 Model Summary: 213 layers, 7020913 parameters, 0 gradients, 15.8 GFLOPs
+2022-06-28 21:55:40,886 Adding AutoShape... 
+2022-06-28 21:55:41,050 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-28 21:55:41,976 Fusing layers... 
+2022-06-28 21:55:42,332 Model Summary: 213 layers, 7029004 parameters, 0 gradients, 15.9 GFLOPs
+2022-06-28 21:55:42,335 Adding AutoShape... 
+2022-06-28 21:55:47,567 {'message': 'Solution has started running'}
+2022-06-28 21:55:47,567 {'message': 'Casting model Running!!'}
+2022-06-28 21:55:47,570 {'message': 'Stacking model Running!!'}
+2022-06-28 21:55:48,014  * Restarting with windowsapi reloader
+2022-06-28 21:56:42,598 {'message': 'connected to DB successfuly'}
+2022-06-28 21:57:08,059 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-28 21:57:08,954 Fusing layers... 
+2022-06-28 21:57:09,524 Model Summary: 213 layers, 7020913 parameters, 0 gradients, 15.8 GFLOPs
+2022-06-28 21:57:09,527 Adding AutoShape... 
+2022-06-28 21:57:10,039 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-28 21:57:10,575 Fusing layers... 
+2022-06-28 21:57:10,925 Model Summary: 213 layers, 7029004 parameters, 0 gradients, 15.9 GFLOPs
+2022-06-28 21:57:10,929 Adding AutoShape... 
+2022-06-28 21:57:12,818 {'message': 'Solution has started running'}
+2022-06-28 21:57:12,818 {'message': 'Casting model Running!!'}
+2022-06-28 21:57:12,821 {'message': 'Stacking model Running!!'}
+2022-06-28 21:57:12,917  * Debugger is active!
+2022-06-28 21:57:13,101  * Debugger PIN: 161-684-179
+2022-06-28 21:57:13,479  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2022-06-28 21:57:47,744 {'message': 'Casting Frames Received'}
+2022-06-28 21:57:47,760 {'timestamp': '2022-06-27 16:38:26', 'count': '2454', 'img_name': 'cast_22_06_27_16_38_26_2454.jpg'}
+2022-06-28 21:57:47,774 {'message': 'Casting frames process into yolov5 model'}
+2022-06-28 21:57:47,774 {'count': '2454', 'img_name': 'cast_22_06_27_16_38_26_2454.jpg'}
+2022-06-28 21:57:58,974  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\keras\\engine\\training.py', reloading
+2022-06-28 21:58:08,902  * Restarting with windowsapi reloader
+2022-06-28 21:59:28,363 {'message': 'connected to DB successfuly'}
+2022-06-28 21:59:58,055 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-28 22:00:00,969 Fusing layers... 
+2022-06-28 22:00:01,444 Model Summary: 213 layers, 7020913 parameters, 0 gradients, 15.8 GFLOPs
+2022-06-28 22:00:01,447 Adding AutoShape... 
+2022-06-28 22:00:01,687 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-28 22:00:03,230 Fusing layers... 
+2022-06-28 22:00:03,568 Model Summary: 213 layers, 7029004 parameters, 0 gradients, 15.9 GFLOPs
+2022-06-28 22:00:03,571 Adding AutoShape... 
+2022-06-28 22:00:07,436 {'message': 'Solution has started running'}
+2022-06-28 22:00:07,436 {'message': 'Casting model Running!!'}
+2022-06-28 22:00:07,438 {'message': 'Stacking model Running!!'}
+2022-06-28 22:00:07,642  * Debugger is active!
+2022-06-28 22:00:07,664  * Debugger PIN: 161-684-179
+2022-06-28 22:00:08,097  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2022-06-28 22:01:46,093  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\ipykernel\\__pycache__\\__init__.cpython-38.pyc', reloading
+2022-06-28 22:01:46,094  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\ipykernel\\__pycache__\\_version.cpython-38.pyc', reloading
+2022-06-28 22:01:46,095  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\ipykernel\\__pycache__\\connect.cpython-38.pyc', reloading
+2022-06-28 22:01:46,125  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\__pycache__\\__init__.cpython-38.pyc', reloading
+2022-06-28 22:01:46,127  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\core\\__pycache__\\__init__.cpython-38.pyc', reloading
+2022-06-28 22:01:46,129  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\core\\__pycache__\\getipython.cpython-38.pyc', reloading
+2022-06-28 22:01:46,130  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\core\\__pycache__\\release.cpython-38.pyc', reloading
+2022-06-28 22:01:46,132  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\core\\__pycache__\\application.cpython-38.pyc', reloading
+2022-06-28 22:01:46,173  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\traitlets\\__pycache__\\__init__.cpython-38.pyc', reloading
+2022-06-28 22:01:46,175  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\traitlets\\__pycache__\\traitlets.cpython-38.pyc', reloading
+2022-06-28 22:01:46,192  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\traitlets\\utils\\__pycache__\\__init__.cpython-38.pyc', reloading
+2022-06-28 22:01:46,194  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\traitlets\\utils\\__pycache__\\getargspec.cpython-38.pyc', reloading
+2022-06-28 22:01:46,195  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\traitlets\\utils\\__pycache__\\importstring.cpython-38.pyc', reloading
+2022-06-28 22:01:46,197  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\traitlets\\utils\\__pycache__\\sentinel.cpython-38.pyc', reloading
+2022-06-28 22:01:46,198  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\traitlets\\utils\\__pycache__\\bunch.cpython-38.pyc', reloading
+2022-06-28 22:01:46,199  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\traitlets\\utils\\__pycache__\\descriptions.cpython-38.pyc', reloading
+2022-06-28 22:01:46,203  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\traitlets\\utils\\__pycache__\\decorators.cpython-38.pyc', reloading
+2022-06-28 22:01:46,204  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\traitlets\\__pycache__\\_version.cpython-38.pyc', reloading
+2022-06-28 22:01:46,206  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\traitlets\\config\\__pycache__\\__init__.cpython-38.pyc', reloading
+2022-06-28 22:01:46,207  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\traitlets\\config\\__pycache__\\application.cpython-38.pyc', reloading
+2022-06-28 22:01:46,211  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\traitlets\\config\\__pycache__\\configurable.cpython-38.pyc', reloading
+2022-06-28 22:01:46,212  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\traitlets\\config\\__pycache__\\loader.cpython-38.pyc', reloading
+2022-06-28 22:01:46,225  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\ipython_genutils\\__pycache__\\__init__.cpython-38.pyc', reloading
+2022-06-28 22:01:46,226  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\ipython_genutils\\__pycache__\\_version.cpython-38.pyc', reloading
+2022-06-28 22:01:46,227  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\ipython_genutils\\__pycache__\\path.cpython-38.pyc', reloading
+2022-06-28 22:01:46,233  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\ipython_genutils\\__pycache__\\py3compat.cpython-38.pyc', reloading
+2022-06-28 22:01:46,234  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\ipython_genutils\\__pycache__\\encoding.cpython-38.pyc', reloading
+2022-06-28 22:01:46,243  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\ipython_genutils\\__pycache__\\text.cpython-38.pyc', reloading
+2022-06-28 22:01:46,252  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\core\\__pycache__\\crashhandler.cpython-38.pyc', reloading
+2022-06-28 22:01:46,253  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\core\\__pycache__\\ultratb.cpython-38.pyc', reloading
+2022-06-28 22:01:46,256  * Detected change in 'K:\\anaconda\\Lib\\__pycache__\\pydoc.cpython-38.pyc', reloading
+2022-06-28 22:01:46,268  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\core\\__pycache__\\debugger.cpython-38.pyc', reloading
+2022-06-28 22:01:46,271  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\utils\\__pycache__\\__init__.cpython-38.pyc', reloading
+2022-06-28 22:01:46,272  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\utils\\__pycache__\\PyColorize.cpython-38.pyc', reloading
+2022-06-28 22:01:46,274  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\utils\\__pycache__\\coloransi.cpython-38.pyc', reloading
+2022-06-28 22:01:46,275  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\utils\\__pycache__\\ipstruct.cpython-38.pyc', reloading
+2022-06-28 22:01:46,276  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\utils\\__pycache__\\colorable.cpython-38.pyc', reloading
+2022-06-28 22:01:46,278  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\pygments\\__pycache__\\__init__.cpython-38.pyc', reloading
+2022-06-28 22:01:46,281  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\utils\\__pycache__\\py3compat.cpython-38.pyc', reloading
+2022-06-28 22:01:46,282  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\utils\\__pycache__\\encoding.cpython-38.pyc', reloading
+2022-06-28 22:01:46,284  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\core\\__pycache__\\excolors.cpython-38.pyc', reloading
+2022-06-28 22:01:46,285  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\testing\\__pycache__\\__init__.cpython-38.pyc', reloading
+2022-06-28 22:01:46,287  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\testing\\__pycache__\\skipdoctest.cpython-38.pyc', reloading
+2022-06-28 22:01:46,296  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\core\\__pycache__\\display_trap.cpython-38.pyc', reloading
+2022-06-28 22:01:46,297  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\utils\\__pycache__\\path.cpython-38.pyc', reloading
+2022-06-28 22:01:46,299  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\utils\\__pycache__\\process.cpython-38.pyc', reloading
+2022-06-28 22:01:46,300  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\utils\\__pycache__\\_process_win32.cpython-38.pyc', reloading
+2022-06-28 22:01:46,321  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\utils\\__pycache__\\_process_common.cpython-38.pyc', reloading
+2022-06-28 22:01:46,326  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\utils\\__pycache__\\decorators.cpython-38.pyc', reloading
+2022-06-28 22:01:46,328  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\utils\\__pycache__\\data.cpython-38.pyc', reloading
+2022-06-28 22:01:46,329  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\utils\\__pycache__\\terminal.cpython-38.pyc', reloading
+2022-06-28 22:01:46,332  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\utils\\__pycache__\\sysinfo.cpython-38.pyc', reloading
+2022-06-28 22:01:46,334  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\utils\\__pycache__\\_sysinfo.cpython-38.pyc', reloading
+2022-06-28 22:01:46,335  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\core\\__pycache__\\profiledir.cpython-38.pyc', reloading
+2022-06-28 22:01:46,336  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\__pycache__\\paths.cpython-38.pyc', reloading
+2022-06-28 22:01:46,340  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\utils\\__pycache__\\importstring.cpython-38.pyc', reloading
+2022-06-28 22:01:46,342  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\terminal\\__pycache__\\__init__.cpython-38.pyc', reloading
+2022-06-28 22:01:46,344  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\terminal\\__pycache__\\embed.cpython-38.pyc', reloading
+2022-06-28 22:01:46,345  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\core\\__pycache__\\compilerop.cpython-38.pyc', reloading
+2022-06-28 22:01:46,352  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\core\\__pycache__\\magic_arguments.cpython-38.pyc', reloading
+2022-06-28 22:01:46,354  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\core\\__pycache__\\error.cpython-38.pyc', reloading
+2022-06-28 22:01:46,355  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\utils\\__pycache__\\text.cpython-38.pyc', reloading
+2022-06-28 22:01:46,362  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\core\\__pycache__\\magic.cpython-38.pyc', reloading
+2022-06-28 22:01:46,364  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\core\\__pycache__\\oinspect.cpython-38.pyc', reloading
+2022-06-28 22:01:46,371  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\core\\__pycache__\\page.cpython-38.pyc', reloading
+2022-06-28 22:01:46,372  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\core\\__pycache__\\display.cpython-38.pyc', reloading
+2022-06-28 22:01:46,377  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\lib\\__pycache__\\__init__.cpython-38.pyc', reloading
+2022-06-28 22:01:46,379  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\lib\\__pycache__\\security.cpython-38.pyc', reloading
+2022-06-28 22:01:46,383  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\lib\\__pycache__\\pretty.cpython-38.pyc', reloading
+2022-06-28 22:01:46,390  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\utils\\__pycache__\\openpy.cpython-38.pyc', reloading
+2022-06-28 22:01:46,392  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\utils\\__pycache__\\dir2.cpython-38.pyc', reloading
+2022-06-28 22:01:46,393  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\utils\\__pycache__\\wildcard.cpython-38.pyc', reloading
+2022-06-28 22:01:46,395  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\pygments\\lexers\\__pycache__\\__init__.cpython-38.pyc', reloading
+2022-06-28 22:01:46,398  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\pygments\\lexers\\__pycache__\\_mapping.cpython-38.pyc', reloading
+2022-06-28 22:01:46,400  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\pygments\\__pycache__\\modeline.cpython-38.pyc', reloading
+2022-06-28 22:01:46,403  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\pygments\\__pycache__\\plugin.cpython-38.pyc', reloading
+2022-06-28 22:01:46,404  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\pygments\\__pycache__\\util.cpython-38.pyc', reloading
+2022-06-28 22:01:46,409  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\pygments\\lexers\\__pycache__\\python.cpython-38.pyc', reloading
+2022-06-28 22:01:46,411  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\pygments\\__pycache__\\lexer.cpython-38.pyc', reloading
+2022-06-28 22:01:46,412  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\pygments\\__pycache__\\filter.cpython-38.pyc', reloading
+2022-06-28 22:01:46,414  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\pygments\\filters\\__pycache__\\__init__.cpython-38.pyc', reloading
+2022-06-28 22:01:46,418  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\pygments\\__pycache__\\token.cpython-38.pyc', reloading
+2022-06-28 22:01:46,420  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\pygments\\__pycache__\\regexopt.cpython-38.pyc', reloading
+2022-06-28 22:01:46,422  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\pygments\\__pycache__\\unistring.cpython-38.pyc', reloading
+2022-06-28 22:01:46,425  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\pygments\\formatters\\__pycache__\\__init__.cpython-38.pyc', reloading
+2022-06-28 22:01:46,426  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\pygments\\formatters\\__pycache__\\_mapping.cpython-38.pyc', reloading
+2022-06-28 22:01:46,428  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\pygments\\formatters\\__pycache__\\html.cpython-38.pyc', reloading
+2022-06-28 22:01:46,430  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\pygments\\__pycache__\\formatter.cpython-38.pyc', reloading
+2022-06-28 22:01:46,431  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\pygments\\styles\\__pycache__\\__init__.cpython-38.pyc', reloading
+2022-06-28 22:01:46,434  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\core\\__pycache__\\inputtransformer2.cpython-38.pyc', reloading
+2022-06-28 22:01:46,440  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\__pycache__\\decorator.cpython-38.pyc', reloading
+2022-06-28 22:01:46,444  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\core\\__pycache__\\interactiveshell.cpython-38.pyc', reloading
+2022-06-28 22:01:46,447  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\__pycache__\\pickleshare.cpython-38.pyc', reloading
+2022-06-28 22:01:46,457  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\core\\__pycache__\\prefilter.cpython-38.pyc', reloading
+2022-06-28 22:01:46,459  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\core\\__pycache__\\autocall.cpython-38.pyc', reloading
+2022-06-28 22:01:46,460  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\core\\__pycache__\\macro.cpython-38.pyc', reloading
+2022-06-28 22:01:46,462  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\core\\__pycache__\\splitinput.cpython-38.pyc', reloading
+2022-06-28 22:01:46,468  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\core\\__pycache__\\alias.cpython-38.pyc', reloading
+2022-06-28 22:01:46,470  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\core\\__pycache__\\builtin_trap.cpython-38.pyc', reloading
+2022-06-28 22:01:46,472  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\core\\__pycache__\\events.cpython-38.pyc', reloading
+2022-06-28 22:01:46,474  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\backcall\\__pycache__\\__init__.cpython-38.pyc', reloading
+2022-06-28 22:01:46,475  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\backcall\\__pycache__\\backcall.cpython-38.pyc', reloading
+2022-06-28 22:01:46,477  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\core\\__pycache__\\displayhook.cpython-38.pyc', reloading
+2022-06-28 22:01:46,478  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\core\\__pycache__\\displaypub.cpython-38.pyc', reloading
+2022-06-28 22:01:46,480  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\core\\__pycache__\\extensions.cpython-38.pyc', reloading
+2022-06-28 22:01:46,482  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\core\\__pycache__\\formatters.cpython-38.pyc', reloading
+2022-06-28 22:01:46,484  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\utils\\__pycache__\\sentinel.cpython-38.pyc', reloading
+2022-06-28 22:01:46,490  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\core\\__pycache__\\history.cpython-38.pyc', reloading
+2022-06-28 22:01:46,492  * Detected change in 'K:\\anaconda\\Lib\\sqlite3\\__pycache__\\__init__.cpython-38.pyc', reloading
+2022-06-28 22:01:46,493  * Detected change in 'K:\\anaconda\\Lib\\sqlite3\\__pycache__\\dbapi2.cpython-38.pyc', reloading
+2022-06-28 22:01:46,504  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\core\\__pycache__\\logger.cpython-38.pyc', reloading
+2022-06-28 22:01:46,505  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\core\\__pycache__\\payload.cpython-38.pyc', reloading
+2022-06-28 22:01:46,507  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\core\\__pycache__\\usage.cpython-38.pyc', reloading
+2022-06-28 22:01:46,508  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\__pycache__\\display.cpython-38.pyc', reloading
+2022-06-28 22:01:46,509  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\lib\\__pycache__\\display.cpython-38.pyc', reloading
+2022-06-28 22:01:46,516  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\utils\\__pycache__\\io.cpython-38.pyc', reloading
+2022-06-28 22:01:46,518  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\utils\\__pycache__\\capture.cpython-38.pyc', reloading
+2022-06-28 22:01:46,520  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\utils\\__pycache__\\strdispatch.cpython-38.pyc', reloading
+2022-06-28 22:01:46,521  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\core\\__pycache__\\hooks.cpython-38.pyc', reloading
+2022-06-28 22:01:46,523  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\utils\\__pycache__\\syspathcontext.cpython-38.pyc', reloading
+2022-06-28 22:01:46,524  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\utils\\__pycache__\\tempdir.cpython-38.pyc', reloading
+2022-06-28 22:01:46,525  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\utils\\__pycache__\\contexts.cpython-38.pyc', reloading
+2022-06-28 22:01:46,528  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\core\\__pycache__\\async_helpers.cpython-38.pyc', reloading
+2022-06-28 22:01:46,532  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\terminal\\__pycache__\\interactiveshell.cpython-38.pyc', reloading
+2022-06-28 22:01:46,615  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\__pycache__\\__init__.cpython-38.pyc', reloading
+2022-06-28 22:01:46,616  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\application\\__pycache__\\__init__.cpython-38.pyc', reloading
+2022-06-28 22:01:46,618  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\application\\__pycache__\\application.cpython-38.pyc', reloading
+2022-06-28 22:01:46,620  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\__pycache__\\buffer.cpython-38.pyc', reloading
+2022-06-28 22:01:46,622  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\application\\__pycache__\\current.cpython-38.pyc', reloading
+2022-06-28 22:01:46,624  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\application\\__pycache__\\run_in_terminal.cpython-38.pyc', reloading
+2022-06-28 22:01:46,626  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\eventloop\\__pycache__\\__init__.cpython-38.pyc', reloading
+2022-06-28 22:01:46,627  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\eventloop\\__pycache__\\async_generator.cpython-38.pyc', reloading
+2022-06-28 22:01:46,629  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\eventloop\\__pycache__\\utils.cpython-38.pyc', reloading
+2022-06-28 22:01:46,630  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\eventloop\\__pycache__\\inputhook.cpython-38.pyc', reloading
+2022-06-28 22:01:46,631  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\__pycache__\\utils.cpython-38.pyc', reloading
+2022-06-28 22:01:46,633  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\wcwidth\\__pycache__\\__init__.cpython-38.pyc', reloading
+2022-06-28 22:01:46,635  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\wcwidth\\__pycache__\\wcwidth.cpython-38.pyc', reloading
+2022-06-28 22:01:46,636  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\wcwidth\\__pycache__\\table_wide.cpython-38.pyc', reloading
+2022-06-28 22:01:46,638  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\wcwidth\\__pycache__\\table_zero.cpython-38.pyc', reloading
+2022-06-28 22:01:46,639  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\wcwidth\\__pycache__\\unicode_versions.cpython-38.pyc', reloading
+2022-06-28 22:01:46,642  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\__pycache__\\auto_suggest.cpython-38.pyc', reloading
+2022-06-28 22:01:46,644  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\__pycache__\\document.cpython-38.pyc', reloading
+2022-06-28 22:01:46,647  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\clipboard\\__pycache__\\__init__.cpython-38.pyc', reloading
+2022-06-28 22:01:46,649  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\clipboard\\__pycache__\\base.cpython-38.pyc', reloading
+2022-06-28 22:01:46,650  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\__pycache__\\selection.cpython-38.pyc', reloading
+2022-06-28 22:01:46,652  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\clipboard\\__pycache__\\in_memory.cpython-38.pyc', reloading
+2022-06-28 22:01:46,654  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\filters\\__pycache__\\__init__.cpython-38.pyc', reloading
+2022-06-28 22:01:46,655  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\filters\\__pycache__\\app.cpython-38.pyc', reloading
+2022-06-28 22:01:46,657  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\__pycache__\\cache.cpython-38.pyc', reloading
+2022-06-28 22:01:46,659  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\__pycache__\\enums.cpython-38.pyc', reloading
+2022-06-28 22:01:46,660  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\filters\\__pycache__\\base.cpython-38.pyc', reloading
+2022-06-28 22:01:46,663  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\filters\\__pycache__\\cli.cpython-38.pyc', reloading
+2022-06-28 22:01:46,664  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\filters\\__pycache__\\utils.cpython-38.pyc', reloading
+2022-06-28 22:01:46,669  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\completion\\__pycache__\\__init__.cpython-38.pyc', reloading
+2022-06-28 22:01:46,670  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\completion\\__pycache__\\base.cpython-38.pyc', reloading
+2022-06-28 22:01:46,672  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\formatted_text\\__pycache__\\__init__.cpython-38.pyc', reloading
+2022-06-28 22:01:46,674  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\formatted_text\\__pycache__\\ansi.cpython-38.pyc', reloading
+2022-06-28 22:01:46,675  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\output\\__pycache__\\__init__.cpython-38.pyc', reloading
+2022-06-28 22:01:46,677  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\output\\__pycache__\\base.cpython-38.pyc', reloading
+2022-06-28 22:01:46,678  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\__pycache__\\data_structures.cpython-38.pyc', reloading
+2022-06-28 22:01:46,680  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\styles\\__pycache__\\__init__.cpython-38.pyc', reloading
+2022-06-28 22:01:46,682  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\styles\\__pycache__\\base.cpython-38.pyc', reloading
+2022-06-28 22:01:46,684  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\styles\\__pycache__\\defaults.cpython-38.pyc', reloading
+2022-06-28 22:01:46,686  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\styles\\__pycache__\\named_colors.cpython-38.pyc', reloading
+2022-06-28 22:01:46,687  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\styles\\__pycache__\\style.cpython-38.pyc', reloading
+2022-06-28 22:01:46,689  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\styles\\__pycache__\\pygments.cpython-38.pyc', reloading
+2022-06-28 22:01:46,691  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\styles\\__pycache__\\style_transformation.cpython-38.pyc', reloading
+2022-06-28 22:01:46,692  * Detected change in 'K:\\anaconda\\Lib\\__pycache__\\colorsys.cpython-38.pyc', reloading
+2022-06-28 22:01:46,695  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\output\\__pycache__\\color_depth.cpython-38.pyc', reloading
+2022-06-28 22:01:46,697  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\output\\__pycache__\\defaults.cpython-38.pyc', reloading
+2022-06-28 22:01:46,698  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\__pycache__\\patch_stdout.cpython-38.pyc', reloading
+2022-06-28 22:01:46,700  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\output\\__pycache__\\vt100.cpython-38.pyc', reloading
+2022-06-28 22:01:46,702  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\formatted_text\\__pycache__\\base.cpython-38.pyc', reloading
+2022-06-28 22:01:46,703  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\__pycache__\\mouse_events.cpython-38.pyc', reloading
+2022-06-28 22:01:46,706  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\formatted_text\\__pycache__\\html.cpython-38.pyc', reloading
+2022-06-28 22:01:46,718  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\formatted_text\\__pycache__\\pygments.cpython-38.pyc', reloading
+2022-06-28 22:01:46,720  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\formatted_text\\__pycache__\\utils.cpython-38.pyc', reloading
+2022-06-28 22:01:46,722  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\completion\\__pycache__\\filesystem.cpython-38.pyc', reloading
+2022-06-28 22:01:46,723  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\completion\\__pycache__\\fuzzy_completer.cpython-38.pyc', reloading
+2022-06-28 22:01:46,725  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\completion\\__pycache__\\word_completer.cpython-38.pyc', reloading
+2022-06-28 22:01:46,727  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\completion\\__pycache__\\nested.cpython-38.pyc', reloading
+2022-06-28 22:01:46,729  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\__pycache__\\history.cpython-38.pyc', reloading
+2022-06-28 22:01:46,731  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\__pycache__\\search.cpython-38.pyc', reloading
+2022-06-28 22:01:46,732  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\key_binding\\__pycache__\\__init__.cpython-38.pyc', reloading
+2022-06-28 22:01:46,734  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\key_binding\\__pycache__\\key_bindings.cpython-38.pyc', reloading
+2022-06-28 22:01:46,736  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\__pycache__\\keys.cpython-38.pyc', reloading
+2022-06-28 22:01:46,743  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\key_binding\\__pycache__\\key_processor.cpython-38.pyc', reloading
+2022-06-28 22:01:46,745  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\key_binding\\__pycache__\\vi_state.cpython-38.pyc', reloading
+2022-06-28 22:01:46,747  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\__pycache__\\validation.cpython-38.pyc', reloading
+2022-06-28 22:01:46,751  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\input\\__pycache__\\__init__.cpython-38.pyc', reloading
+2022-06-28 22:01:46,753  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\input\\__pycache__\\base.cpython-38.pyc', reloading
+2022-06-28 22:01:46,754  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\input\\__pycache__\\defaults.cpython-38.pyc', reloading
+2022-06-28 22:01:46,756  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\input\\__pycache__\\typeahead.cpython-38.pyc', reloading
+2022-06-28 22:01:46,757  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\key_binding\\bindings\\__pycache__\\__init__.cpython-38.pyc', reloading
+2022-06-28 22:01:46,759  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\key_binding\\bindings\\__pycache__\\page_navigation.cpython-38.pyc', reloading
+2022-06-28 22:01:46,760  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\key_binding\\bindings\\__pycache__\\scroll.cpython-38.pyc', reloading
+2022-06-28 22:01:46,762  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\key_binding\\__pycache__\\defaults.cpython-38.pyc', reloading
+2022-06-28 22:01:46,763  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\key_binding\\bindings\\__pycache__\\basic.cpython-38.pyc', reloading
+2022-06-28 22:01:46,765  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\key_binding\\bindings\\__pycache__\\named_commands.cpython-38.pyc', reloading
+2022-06-28 22:01:46,766  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\layout\\__pycache__\\__init__.cpython-38.pyc', reloading
+2022-06-28 22:01:46,768  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\layout\\__pycache__\\containers.cpython-38.pyc', reloading
+2022-06-28 22:01:46,770  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\layout\\__pycache__\\controls.cpython-38.pyc', reloading
+2022-06-28 22:01:46,772  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\lexers\\__pycache__\\__init__.cpython-38.pyc', reloading
+2022-06-28 22:01:46,774  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\lexers\\__pycache__\\base.cpython-38.pyc', reloading
+2022-06-28 22:01:46,778  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\lexers\\__pycache__\\pygments.cpython-38.pyc', reloading
+2022-06-28 22:01:46,780  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\layout\\__pycache__\\processors.cpython-38.pyc', reloading
+2022-06-28 22:01:46,782  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\layout\\__pycache__\\utils.cpython-38.pyc', reloading
+2022-06-28 22:01:46,788  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\layout\\__pycache__\\dimension.cpython-38.pyc', reloading
+2022-06-28 22:01:46,790  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\layout\\__pycache__\\margins.cpython-38.pyc', reloading
+2022-06-28 22:01:46,791  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\layout\\__pycache__\\mouse_handlers.cpython-38.pyc', reloading
+2022-06-28 22:01:46,793  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\layout\\__pycache__\\screen.cpython-38.pyc', reloading
+2022-06-28 22:01:46,800  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\layout\\__pycache__\\layout.cpython-38.pyc', reloading
+2022-06-28 22:01:46,802  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\layout\\__pycache__\\menus.cpython-38.pyc', reloading
+2022-06-28 22:01:46,805  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\key_binding\\bindings\\__pycache__\\completion.cpython-38.pyc', reloading
+2022-06-28 22:01:46,807  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\key_binding\\bindings\\__pycache__\\cpr.cpython-38.pyc', reloading
+2022-06-28 22:01:46,808  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\key_binding\\bindings\\__pycache__\\emacs.cpython-38.pyc', reloading
+2022-06-28 22:01:46,810  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\key_binding\\bindings\\__pycache__\\mouse.cpython-38.pyc', reloading
+2022-06-28 22:01:46,811  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\key_binding\\bindings\\__pycache__\\vi.cpython-38.pyc', reloading
+2022-06-28 22:01:46,813  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\input\\__pycache__\\vt100_parser.cpython-38.pyc', reloading
+2022-06-28 22:01:46,815  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\input\\__pycache__\\ansi_escape_sequences.cpython-38.pyc', reloading
+2022-06-28 22:01:46,818  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\key_binding\\__pycache__\\digraphs.cpython-38.pyc', reloading
+2022-06-28 22:01:46,821  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\key_binding\\__pycache__\\emacs_state.cpython-38.pyc', reloading
+2022-06-28 22:01:46,822  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\layout\\__pycache__\\dummy.cpython-38.pyc', reloading
+2022-06-28 22:01:46,823  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\__pycache__\\renderer.cpython-38.pyc', reloading
+2022-06-28 22:01:46,827  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\application\\__pycache__\\dummy.cpython-38.pyc', reloading
+2022-06-28 22:01:46,829  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\prompt_toolkit\\shortcuts\\__pycache__\\__init__.cpython-38.pyc', reloading
+2022-06-28 22:01:48,318  * Restarting with windowsapi reloader
+2022-06-28 22:17:41,329 {'message': 'connected to DB successfuly'}
+2022-06-28 22:18:03,622 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-28 22:18:05,295 Fusing layers... 
+2022-06-28 22:18:08,837 Model Summary: 213 layers, 7020913 parameters, 0 gradients, 15.8 GFLOPs
+2022-06-28 22:18:08,840 Adding AutoShape... 
+2022-06-28 22:18:09,534 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-28 22:18:10,213 Fusing layers... 
+2022-06-28 22:18:10,684 Model Summary: 213 layers, 7029004 parameters, 0 gradients, 15.9 GFLOPs
+2022-06-28 22:18:10,691 Adding AutoShape... 
+2022-06-28 22:18:27,116 {'message': 'Solution has started running'}
+2022-06-28 22:18:27,116 {'message': 'Casting model Running!!'}
+2022-06-28 22:18:27,118 {'message': 'Stacking model Running!!'}
+2022-06-28 22:18:27,730  * Restarting with windowsapi reloader
+2022-06-28 22:19:23,906 {'message': 'connected to DB successfuly'}
+2022-06-28 22:19:37,013 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-28 22:19:37,630 Fusing layers... 
+2022-06-28 22:19:38,143 Model Summary: 213 layers, 7020913 parameters, 0 gradients, 15.8 GFLOPs
+2022-06-28 22:19:38,146 Adding AutoShape... 
+2022-06-28 22:19:38,730 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-28 22:19:39,910 Fusing layers... 
+2022-06-28 22:19:40,346 Model Summary: 213 layers, 7029004 parameters, 0 gradients, 15.9 GFLOPs
+2022-06-28 22:19:40,349 Adding AutoShape... 
+2022-06-28 22:19:42,590 {'message': 'Solution has started running'}
+2022-06-28 22:19:42,591 {'message': 'Casting model Running!!'}
+2022-06-28 22:19:42,595 {'message': 'Stacking model Running!!'}
+2022-06-28 22:19:42,683  * Debugger is active!
+2022-06-28 22:19:42,811  * Debugger PIN: 161-684-179
+2022-06-28 22:19:43,273  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2022-06-28 22:20:40,599  * Detected change in 'K:\\anaconda\\Lib\\__pycache__\\netrc.cpython-38.pyc', reloading
+2022-06-28 22:20:53,637  * Restarting with windowsapi reloader

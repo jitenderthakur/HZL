@@ -1,0 +1,339 @@
+2022-06-29 10:57:45,413 {'message': 'connected to DB successfuly'}
+2022-06-29 10:58:04,257 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-29 10:58:05,835 Fusing layers... 
+2022-06-29 10:58:08,753 Model Summary: 213 layers, 7020913 parameters, 0 gradients, 15.8 GFLOPs
+2022-06-29 10:58:08,756 Adding AutoShape... 
+2022-06-29 10:58:09,293 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-29 10:58:09,786 Fusing layers... 
+2022-06-29 10:58:10,260 Model Summary: 213 layers, 7029004 parameters, 0 gradients, 15.9 GFLOPs
+2022-06-29 10:58:10,263 Adding AutoShape... 
+2022-06-29 10:58:15,576 {'message': 'Solution has started running'}
+2022-06-29 10:58:15,576 {'message': 'Casting model Running!!'}
+2022-06-29 10:58:15,578 {'message': 'Stacking model Running!!'}
+2022-06-29 10:58:16,101  * Restarting with windowsapi reloader
+2022-06-29 10:59:21,253 {'message': 'connected to DB successfuly'}
+2022-06-29 10:59:31,179 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-29 10:59:31,738 Fusing layers... 
+2022-06-29 10:59:32,632 Model Summary: 213 layers, 7020913 parameters, 0 gradients, 15.8 GFLOPs
+2022-06-29 10:59:32,636 Adding AutoShape... 
+2022-06-29 10:59:33,586 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-29 10:59:34,025 Fusing layers... 
+2022-06-29 10:59:34,582 Model Summary: 213 layers, 7029004 parameters, 0 gradients, 15.9 GFLOPs
+2022-06-29 10:59:34,587 Adding AutoShape... 
+2022-06-29 10:59:49,821 {'message': 'Solution has started running'}
+2022-06-29 10:59:49,821 {'message': 'Casting model Running!!'}
+2022-06-29 10:59:49,837 {'message': 'Stacking model Running!!'}
+2022-06-29 10:59:49,962  * Debugger is active!
+2022-06-29 10:59:50,200  * Debugger PIN: 161-684-179
+2022-06-29 10:59:50,536  * Running on http://localhost:7000/ (Press CTRL+C to quit)
+2022-06-29 11:00:35,003  * Detected change in 'K:\\anaconda\\Lib\\__pycache__\\netrc.cpython-38.pyc', reloading
+2022-06-29 11:00:50,747  * Restarting with windowsapi reloader
+2022-06-29 11:02:03,022 {'message': 'connected to DB successfuly'}
+2022-06-29 11:02:15,970 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-29 11:02:16,554 Fusing layers... 
+2022-06-29 11:02:17,156 Model Summary: 213 layers, 7020913 parameters, 0 gradients, 15.8 GFLOPs
+2022-06-29 11:02:17,160 Adding AutoShape... 
+2022-06-29 11:02:17,997 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-29 11:02:18,743 Fusing layers... 
+2022-06-29 11:02:19,161 Model Summary: 213 layers, 7029004 parameters, 0 gradients, 15.9 GFLOPs
+2022-06-29 11:02:19,167 Adding AutoShape... 
+2022-06-29 11:02:20,853 {'message': 'Solution has started running'}
+2022-06-29 11:02:20,853 {'message': 'Casting model Running!!'}
+2022-06-29 11:02:20,857 {'message': 'Stacking model Running!!'}
+2022-06-29 11:02:20,965  * Debugger is active!
+2022-06-29 11:02:21,004  * Debugger PIN: 161-684-179
+2022-06-29 11:02:21,361  * Running on http://localhost:7000/ (Press CTRL+C to quit)
+2022-06-29 11:02:42,679 {'message': 'Casting Frames Received'}
+2022-06-29 11:02:42,679 {'timestamp': '2022-06-27 16:38:26', 'count': '2454', 'img_name': 'cast_22_06_27_16_38_26_2454.jpg'}
+2022-06-29 11:02:42,679 {'message': 'Casting frames process into yolov5 model'}
+2022-06-29 11:02:42,679 {'count': '2454', 'img_name': 'cast_22_06_27_16_38_26_2454.jpg'}
+2022-06-29 11:02:48,460  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\keras\\engine\\training.py', reloading
+2022-06-29 11:03:01,213  * Restarting with windowsapi reloader
+2022-06-29 11:03:52,210 {'message': 'connected to DB successfuly'}
+2022-06-29 11:04:02,504 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-29 11:04:03,129 Fusing layers... 
+2022-06-29 11:04:03,584 Model Summary: 213 layers, 7020913 parameters, 0 gradients, 15.8 GFLOPs
+2022-06-29 11:04:03,588 Adding AutoShape... 
+2022-06-29 11:04:03,921 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-29 11:04:04,371 Fusing layers... 
+2022-06-29 11:04:04,776 Model Summary: 213 layers, 7029004 parameters, 0 gradients, 15.9 GFLOPs
+2022-06-29 11:04:04,780 Adding AutoShape... 
+2022-06-29 11:04:06,132 {'message': 'Solution has started running'}
+2022-06-29 11:04:06,133 {'message': 'Casting model Running!!'}
+2022-06-29 11:04:06,135 {'message': 'Stacking model Running!!'}
+2022-06-29 11:04:06,201  * Debugger is active!
+2022-06-29 11:04:06,231  * Debugger PIN: 161-684-179
+2022-06-29 11:04:06,483  * Running on http://localhost:7000/ (Press CTRL+C to quit)
+2022-06-29 11:04:34,816 {'message': 'Casting Frames Received'}
+2022-06-29 11:04:34,816 {'timestamp': '2022-06-27 16:38:26', 'count': '2454', 'img_name': 'cast_22_06_27_16_38_26_2454.jpg'}
+2022-06-29 11:04:34,816 {'message': 'Casting frames process into yolov5 model'}
+2022-06-29 11:04:34,817 {'count': '2454', 'img_name': 'cast_22_06_27_16_38_26_2454.jpg'}
+2022-06-29 11:04:42,670 {'message': 'Casting frames process into empty_tray model'}
+2022-06-29 11:04:44,562  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\pandas\\io\\formats\\__pycache__\\string.cpython-38.pyc', reloading
+2022-06-29 11:04:44,568 127.0.0.1 - - [29/Jun/2022 11:04:44] "[37mPOST /casting HTTP/1.1[0m" 200 -
+2022-06-29 11:04:49,302  * Restarting with windowsapi reloader
+2022-06-29 11:05:09,983 {'message': 'connected to DB successfuly'}
+2022-06-29 11:05:12,198 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-29 11:05:12,274 Fusing layers... 
+2022-06-29 11:05:12,595 Model Summary: 213 layers, 7020913 parameters, 0 gradients, 15.8 GFLOPs
+2022-06-29 11:05:12,598 Adding AutoShape... 
+2022-06-29 11:05:12,716 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-29 11:05:12,793 Fusing layers... 
+2022-06-29 11:05:13,170 Model Summary: 213 layers, 7029004 parameters, 0 gradients, 15.9 GFLOPs
+2022-06-29 11:05:13,173 Adding AutoShape... 
+2022-06-29 11:05:13,658 {'message': 'Solution has started running'}
+2022-06-29 11:05:13,658 {'message': 'Casting model Running!!'}
+2022-06-29 11:05:13,660 {'message': 'Stacking model Running!!'}
+2022-06-29 11:05:13,674  * Debugger is active!
+2022-06-29 11:05:13,694  * Debugger PIN: 161-684-179
+2022-06-29 11:05:13,848  * Running on http://localhost:7000/ (Press CTRL+C to quit)
+2022-06-29 11:10:08,343 {'message': 'Stacking Frames  Received'}
+2022-06-29 11:10:08,343 {'message': 'stacking frames process into yolov5 model'}
+2022-06-29 11:10:10,916  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\flask\\app.py', reloading
+2022-06-29 11:10:11,154  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\flask\\_compat.py', reloading
+2022-06-29 11:10:11,178 127.0.0.1 - - [29/Jun/2022 11:10:11] "[35m[1mPOST /stacking HTTP/1.1[0m" 500 -
+2022-06-29 11:10:16,580  * Restarting with windowsapi reloader
+2022-06-29 11:11:08,255 {'message': 'connected to DB successfuly'}
+2022-06-29 11:11:17,647 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-29 11:11:18,177 Fusing layers... 
+2022-06-29 11:11:18,569 Model Summary: 213 layers, 7020913 parameters, 0 gradients, 15.8 GFLOPs
+2022-06-29 11:11:18,575 Adding AutoShape... 
+2022-06-29 11:11:18,763 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-29 11:11:19,196 Fusing layers... 
+2022-06-29 11:11:19,578 Model Summary: 213 layers, 7029004 parameters, 0 gradients, 15.9 GFLOPs
+2022-06-29 11:11:19,581 Adding AutoShape... 
+2022-06-29 11:11:20,830 {'message': 'Solution has started running'}
+2022-06-29 11:11:20,830 {'message': 'Casting model Running!!'}
+2022-06-29 11:11:20,832 {'message': 'Stacking model Running!!'}
+2022-06-29 11:11:20,904  * Debugger is active!
+2022-06-29 11:11:20,980  * Debugger PIN: 161-684-179
+2022-06-29 11:11:21,296  * Running on http://localhost:7000/ (Press CTRL+C to quit)
+2022-06-29 11:13:59,935  * Detected change in 'E:\\hzl\\server_new.py', reloading
+2022-06-29 11:14:04,581  * Restarting with windowsapi reloader
+2022-06-29 11:14:55,204 {'message': 'connected to DB successfuly'}
+2022-06-29 11:15:05,756 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-29 11:15:06,170 Fusing layers... 
+2022-06-29 11:15:06,614 Model Summary: 213 layers, 7020913 parameters, 0 gradients, 15.8 GFLOPs
+2022-06-29 11:15:06,618 Adding AutoShape... 
+2022-06-29 11:15:06,737 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-29 11:15:06,832 Fusing layers... 
+2022-06-29 11:15:07,182 Model Summary: 213 layers, 7029004 parameters, 0 gradients, 15.9 GFLOPs
+2022-06-29 11:15:07,185 Adding AutoShape... 
+2022-06-29 11:15:14,490 {'message': 'Solution has started running'}
+2022-06-29 11:15:14,490 {'message': 'Casting model Running!!'}
+2022-06-29 11:15:14,492 {'message': 'Stacking model Running!!'}
+2022-06-29 11:15:16,011  * Debugger is active!
+2022-06-29 11:15:16,242  * Debugger PIN: 161-684-179
+2022-06-29 11:15:18,150  * Running on http://localhost:7000/ (Press CTRL+C to quit)
+2022-06-29 11:15:37,424 {'message': 'Stacking Frames  Received'}
+2022-06-29 11:15:37,424 {'message': 'stacking frames process into yolov5 model'}
+2022-06-29 11:15:45,621 127.0.0.1 - - [29/Jun/2022 11:15:45] "[37mPOST /stacking HTTP/1.1[0m" 200 -
+2022-06-29 12:55:24,410 {'message': 'connected to DB successfuly'}
+2022-06-29 12:55:43,460 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-29 12:55:45,010 Fusing layers... 
+2022-06-29 12:55:48,228 Model Summary: 213 layers, 7020913 parameters, 0 gradients, 15.8 GFLOPs
+2022-06-29 12:55:48,233 Adding AutoShape... 
+2022-06-29 12:55:48,554 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-29 12:55:49,690 Fusing layers... 
+2022-06-29 12:55:50,091 Model Summary: 213 layers, 7029004 parameters, 0 gradients, 15.9 GFLOPs
+2022-06-29 12:55:50,094 Adding AutoShape... 
+2022-06-29 12:55:55,695 {'message': 'Solution has started running'}
+2022-06-29 12:55:55,695 {'message': 'Casting model Running!!'}
+2022-06-29 12:55:55,698 {'message': 'Stacking model Running!!'}
+2022-06-29 12:55:56,242  * Restarting with windowsapi reloader
+2022-06-29 12:56:50,093 {'message': 'connected to DB successfuly'}
+2022-06-29 12:57:01,665 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-29 12:57:02,883 Fusing layers... 
+2022-06-29 12:57:03,453 Model Summary: 213 layers, 7020913 parameters, 0 gradients, 15.8 GFLOPs
+2022-06-29 12:57:03,460 Adding AutoShape... 
+2022-06-29 12:57:03,746 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-29 12:57:07,918 Fusing layers... 
+2022-06-29 12:57:08,369 Model Summary: 213 layers, 7029004 parameters, 0 gradients, 15.9 GFLOPs
+2022-06-29 12:57:08,372 Adding AutoShape... 
+2022-06-29 12:57:10,569 {'message': 'Solution has started running'}
+2022-06-29 12:57:10,569 {'message': 'Casting model Running!!'}
+2022-06-29 12:57:10,571 {'message': 'Stacking model Running!!'}
+2022-06-29 12:57:10,644  * Debugger is active!
+2022-06-29 12:57:10,773  * Debugger PIN: 161-684-179
+2022-06-29 12:57:11,049  * Running on http://localhost:7000/ (Press CTRL+C to quit)
+2022-06-29 12:59:10,816  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\IPython\\core\\interactiveshell.py', reloading
+2022-06-29 12:59:20,403  * Restarting with windowsapi reloader
+2022-06-29 13:00:09,810 {'message': 'connected to DB successfuly'}
+2022-06-29 13:00:19,790 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-29 13:00:20,457 Fusing layers... 
+2022-06-29 13:00:21,294 Model Summary: 213 layers, 7020913 parameters, 0 gradients, 15.8 GFLOPs
+2022-06-29 13:00:21,299 Adding AutoShape... 
+2022-06-29 13:00:21,460 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-29 13:00:22,165 Fusing layers... 
+2022-06-29 13:00:22,581 Model Summary: 213 layers, 7029004 parameters, 0 gradients, 15.9 GFLOPs
+2022-06-29 13:00:22,587 Adding AutoShape... 
+2022-06-29 13:00:31,793 {'message': 'Solution has started running'}
+2022-06-29 13:00:31,793 {'message': 'Casting model Running!!'}
+2022-06-29 13:00:31,795 {'message': 'Stacking model Running!!'}
+2022-06-29 13:00:31,949  * Debugger is active!
+2022-06-29 13:00:31,994  * Debugger PIN: 161-684-179
+2022-06-29 13:00:32,278  * Running on http://localhost:7000/ (Press CTRL+C to quit)
+2022-06-29 13:00:44,174 {'message': 'Casting Frames Received'}
+2022-06-29 13:00:44,174 {'timestamp': '2022-06-27 16:06:15', 'count': '2452', 'img_name': 'cast_22_06_27_16_06_15_2452.jpg'}
+2022-06-29 13:00:44,175 {'message': 'Casting frames process into yolov5 model'}
+2022-06-29 13:00:44,175 {'count': '2452', 'img_name': 'cast_22_06_27_16_06_15_2452.jpg'}
+2022-06-29 13:00:48,522  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\keras\\engine\\training.py', reloading
+2022-06-29 13:00:50,987  * Restarting with windowsapi reloader
+2022-06-29 13:01:03,484 {'message': 'connected to DB successfuly'}
+2022-06-29 13:01:05,962 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-29 13:01:06,046 Fusing layers... 
+2022-06-29 13:01:06,436 Model Summary: 213 layers, 7020913 parameters, 0 gradients, 15.8 GFLOPs
+2022-06-29 13:01:06,441 Adding AutoShape... 
+2022-06-29 13:01:06,584 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-29 13:01:06,655 Fusing layers... 
+2022-06-29 13:01:07,038 Model Summary: 213 layers, 7029004 parameters, 0 gradients, 15.9 GFLOPs
+2022-06-29 13:01:07,041 Adding AutoShape... 
+2022-06-29 13:01:07,893 {'message': 'Solution has started running'}
+2022-06-29 13:01:07,894 {'message': 'Casting model Running!!'}
+2022-06-29 13:01:07,896 {'message': 'Stacking model Running!!'}
+2022-06-29 13:01:07,911  * Debugger is active!
+2022-06-29 13:01:07,929  * Debugger PIN: 161-684-179
+2022-06-29 13:01:08,057  * Running on http://localhost:7000/ (Press CTRL+C to quit)
+2022-06-29 13:02:06,939 {'message': 'Casting Frames Received'}
+2022-06-29 13:02:06,940 {'timestamp': '2022-06-27 16:06:15', 'count': '2452', 'img_name': 'cast_22_06_27_16_06_15_2452.jpg'}
+2022-06-29 13:02:06,940 {'message': 'Casting frames process into yolov5 model'}
+2022-06-29 13:02:06,940 {'count': '2452', 'img_name': 'cast_22_06_27_16_06_15_2452.jpg'}
+2022-06-29 13:02:18,478 {'message': 'Casting frames process into empty_tray model'}
+2022-06-29 13:02:20,544  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\pandas\\io\\formats\\__pycache__\\string.cpython-38.pyc', reloading
+2022-06-29 13:02:20,549 127.0.0.1 - - [29/Jun/2022 13:02:20] "[37mPOST /casting HTTP/1.1[0m" 200 -
+2022-06-29 13:02:25,654  * Restarting with windowsapi reloader
+2022-06-29 13:03:15,652 {'message': 'connected to DB successfuly'}
+2022-06-29 13:03:48,505 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-29 13:03:50,365 Fusing layers... 
+2022-06-29 13:03:50,856 Model Summary: 213 layers, 7020913 parameters, 0 gradients, 15.8 GFLOPs
+2022-06-29 13:03:50,859 Adding AutoShape... 
+2022-06-29 13:03:51,170 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-29 13:03:51,568 Fusing layers... 
+2022-06-29 13:03:51,929 Model Summary: 213 layers, 7029004 parameters, 0 gradients, 15.9 GFLOPs
+2022-06-29 13:03:51,932 Adding AutoShape... 
+2022-06-29 13:03:54,935 {'message': 'Solution has started running'}
+2022-06-29 13:03:54,935 {'message': 'Casting model Running!!'}
+2022-06-29 13:03:54,937 {'message': 'Stacking model Running!!'}
+2022-06-29 13:03:55,021  * Debugger is active!
+2022-06-29 13:03:55,050  * Debugger PIN: 161-684-179
+2022-06-29 13:03:55,316  * Running on http://localhost:7000/ (Press CTRL+C to quit)
+2022-06-29 13:04:53,945  * Detected change in 'E:\\hzl\\stacking_model.py', reloading
+2022-06-29 13:04:59,073  * Restarting with windowsapi reloader
+2022-06-29 13:05:42,470 {'message': 'connected to DB successfuly'}
+2022-06-29 13:05:45,054 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-29 13:05:45,131 Fusing layers... 
+2022-06-29 13:05:45,482 Model Summary: 213 layers, 7020913 parameters, 0 gradients, 15.8 GFLOPs
+2022-06-29 13:05:45,488 Adding AutoShape... 
+2022-06-29 13:05:45,613 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-29 13:05:45,702 Fusing layers... 
+2022-06-29 13:05:46,135 Model Summary: 213 layers, 7029004 parameters, 0 gradients, 15.9 GFLOPs
+2022-06-29 13:05:46,139 Adding AutoShape... 
+2022-06-29 13:05:46,977 {'message': 'Solution has started running'}
+2022-06-29 13:05:46,977 {'message': 'Casting model Running!!'}
+2022-06-29 13:05:46,979 {'message': 'Stacking model Running!!'}
+2022-06-29 13:05:46,994  * Debugger is active!
+2022-06-29 13:05:47,013  * Debugger PIN: 161-684-179
+2022-06-29 13:05:47,155  * Running on http://localhost:7000/ (Press CTRL+C to quit)
+2022-06-29 13:08:07,160  * Detected change in 'E:\\hzl\\casting_model.py', reloading
+2022-06-29 13:08:12,063  * Restarting with windowsapi reloader
+2022-06-29 13:08:42,373 {'message': 'connected to DB successfuly'}
+2022-06-29 13:08:44,642 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-29 13:08:44,729 Fusing layers... 
+2022-06-29 13:08:45,110 Model Summary: 213 layers, 7020913 parameters, 0 gradients, 15.8 GFLOPs
+2022-06-29 13:08:45,113 Adding AutoShape... 
+2022-06-29 13:08:45,217 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-29 13:08:45,293 Fusing layers... 
+2022-06-29 13:08:45,678 Model Summary: 213 layers, 7029004 parameters, 0 gradients, 15.9 GFLOPs
+2022-06-29 13:08:45,681 Adding AutoShape... 
+2022-06-29 13:08:46,509 {'message': 'Solution has started running'}
+2022-06-29 13:08:46,509 {'message': 'Casting model Running!!'}
+2022-06-29 13:08:46,511 {'message': 'Stacking model Running!!'}
+2022-06-29 13:08:46,526  * Debugger is active!
+2022-06-29 13:08:46,544  * Debugger PIN: 161-684-179
+2022-06-29 13:08:46,697  * Running on http://localhost:7000/ (Press CTRL+C to quit)
+2022-06-29 13:15:48,120  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\pandas\\io\\sql.py', reloading
+2022-06-29 13:15:48,205  * Detected change in 'K:\\anaconda\\Lib\\site-packages\\pandas\\compat\\_optional.py', reloading
+2022-06-29 13:15:52,745  * Restarting with windowsapi reloader
+2022-06-29 13:16:08,921 {'message': 'connected to DB successfuly'}
+2022-06-29 13:16:11,267 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-29 13:16:11,355 Fusing layers... 
+2022-06-29 13:16:11,740 Model Summary: 213 layers, 7020913 parameters, 0 gradients, 15.8 GFLOPs
+2022-06-29 13:16:11,743 Adding AutoShape... 
+2022-06-29 13:16:11,887 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-29 13:16:11,959 Fusing layers... 
+2022-06-29 13:16:12,423 Model Summary: 213 layers, 7029004 parameters, 0 gradients, 15.9 GFLOPs
+2022-06-29 13:16:12,426 Adding AutoShape... 
+2022-06-29 13:16:13,278 {'message': 'Solution has started running'}
+2022-06-29 13:16:13,278 {'message': 'Casting model Running!!'}
+2022-06-29 13:16:13,280 {'message': 'Stacking model Running!!'}
+2022-06-29 13:16:13,295  * Debugger is active!
+2022-06-29 13:16:13,313  * Debugger PIN: 161-684-179
+2022-06-29 13:16:13,469  * Running on http://localhost:7000/ (Press CTRL+C to quit)
+2022-06-29 13:46:24,598  * Detected change in 'E:\\hzl\\cast_upload_model.py', reloading
+2022-06-29 13:46:52,448  * Restarting with windowsapi reloader
+2022-06-29 13:49:12,793 {'message': 'connected to DB successfuly'}
+2022-06-29 13:49:36,594 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-29 13:49:38,139 Fusing layers... 
+2022-06-29 13:49:41,170 Model Summary: 213 layers, 7020913 parameters, 0 gradients, 15.8 GFLOPs
+2022-06-29 13:49:41,174 Adding AutoShape... 
+2022-06-29 13:49:41,556 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-29 13:49:42,252 Fusing layers... 
+2022-06-29 13:49:42,649 Model Summary: 213 layers, 7029004 parameters, 0 gradients, 15.9 GFLOPs
+2022-06-29 13:49:42,655 Adding AutoShape... 
+2022-06-29 13:49:47,737 {'message': 'Solution has started running'}
+2022-06-29 13:49:47,737 {'message': 'Casting model Running!!'}
+2022-06-29 13:49:47,740 {'message': 'Stacking model Running!!'}
+2022-06-29 13:49:47,990  * Debugger is active!
+2022-06-29 13:49:48,286  * Debugger PIN: 161-684-179
+2022-06-29 13:49:48,674  * Running on http://localhost:7000/ (Press CTRL+C to quit)
+2022-06-29 13:52:35,974  * Detected change in 'E:\\hzl\\upload_stack_model.py', reloading
+2022-06-29 13:52:38,464  * Restarting with windowsapi reloader
+2022-06-29 13:52:52,191 {'message': 'connected to DB successfuly'}
+2022-06-29 13:52:54,452 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-29 13:52:54,529 Fusing layers... 
+2022-06-29 13:52:54,944 Model Summary: 213 layers, 7020913 parameters, 0 gradients, 15.8 GFLOPs
+2022-06-29 13:52:54,947 Adding AutoShape... 
+2022-06-29 13:52:55,076 YOLOv5  2022-3-2 torch 1.10.2 CPU
+
+2022-06-29 13:52:55,160 Fusing layers... 
+2022-06-29 13:52:55,539 Model Summary: 213 layers, 7029004 parameters, 0 gradients, 15.9 GFLOPs
+2022-06-29 13:52:55,543 Adding AutoShape... 
+2022-06-29 13:52:56,425 {'message': 'Solution has started running'}
+2022-06-29 13:52:56,425 {'message': 'Casting model Running!!'}
+2022-06-29 13:52:56,426 {'message': 'Stacking model Running!!'}
+2022-06-29 13:52:56,440  * Debugger is active!
+2022-06-29 13:52:56,458  * Debugger PIN: 161-684-179
+2022-06-29 13:52:56,589  * Running on http://localhost:7000/ (Press CTRL+C to quit)
